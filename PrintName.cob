@@ -2,7 +2,7 @@
        PROGRAM-ID. PRINT-NAME.
        DATA DIVISION. 
        WORKING-STORAGE SECTION. 
-       77  ISIM     PIC X(20) VALUE "YASAR OKTEN         ".
+       77  ISIM     PIC X(20) VALUE "YASAR OKTEN".
        77  I        PIC 9(2) VALUE 1.
        PROCEDURE DIVISION.
       * ISIM değişkeni için ayrılan kadar karakter bastırması için.
